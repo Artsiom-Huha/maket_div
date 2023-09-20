@@ -1,9 +1,9 @@
 .general{
     max-width: 650px;
-    background: url(/Безымянный.png) left repeat-y;
+    background: url(Безымянный.png) left repeat-y;
 }
 .general-1{
-    background: url(/ball.png) right repeat-y;
+    background: url(ball.png) right repeat-y;
 }
 .col-1{
     width: 150px;
