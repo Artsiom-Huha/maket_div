@@ -9,6 +9,9 @@
     width: 150px;
     float: left;
 }
+.col-2{
+    padding-left: 170px;
+}
 /* не совсем понимаю поведение col-2. если я ему прописываю float: left, то он перескакивает под col-1, когда много текста (как в данном случае). */
 img{
     float: left;
@@ -46,6 +49,4 @@ h3{
     background-color: #18c8e7;
     height: 30px;
 }
-p{
-    padding-left: 170px;
-}
+
