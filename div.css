@@ -1,5 +1,5 @@
 .general-1{
-    background: url(/ball.png) top right, url(/Безымянный.png) top left;
+    background: url(ball.png) top right, url(Безымянный.png) top left;
     background-repeat: repeat-y;
 }
 .col-1{
