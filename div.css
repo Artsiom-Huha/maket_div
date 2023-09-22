@@ -1,17 +1,15 @@
-.general{
-    background: url(Безымянный.png) left repeat-y;
-}
 .general-1{
-    background: url(ball.png) right repeat-y;
+    background: url(/ball.png) top right, url(/Безымянный.png) top left;
+    background-repeat: repeat-y;
 }
 .col-1{
+    
     width: 150px;
     float: left;
 }
 .col-2{
-    padding-left: 170px;
+    margin-left: 170px;
 }
-/* не совсем понимаю поведение col-2. если я ему прописываю float: left, то он перескакивает под col-1, когда много текста (как в данном случае). */
 img{
     float: left;
     padding-right: 20px;
@@ -19,19 +17,21 @@ img{
 .col-3{
     clear: both;
     background-color: #18c8e7;
-    height: 50px;
+    height: 40px;
 }
-
+ul{
+    margin: 0;
+}
 h1{
     font-size: 20px;
     text-align: center;
+    margin: 0;
 }
-/*не смог разобраться, как иначе можно выровнять центрирование по горизонтали. подскажите как это можно сделать еще. */
 .hd-1{
     padding-top: 5px;
 }
 .hd-2{
-    padding-top: 15px;
+    padding-top: 10px;
 }
 
 h2{
@@ -41,11 +41,12 @@ h2{
 }
 h3{
     padding-left: 10px;
-    margin-top: 0;
+    margin: 0;
     padding-top: 5px;
 }
 .col{
     background-color: #18c8e7;
     height: 30px;
 }
+
 
