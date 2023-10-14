@@ -8,7 +8,7 @@
 }
 @media all and (max-width: 768px){
     .general-1{
-        background: url(/Безымянный.png) top left;
+        background: url(Безымянный.png) top left;
         background-repeat: repeat-y;
     }
 }
