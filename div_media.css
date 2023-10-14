@@ -1,0 +1,37 @@
+@media all and (max-width: 992px){
+    .col-2{
+        margin-left: 150px;
+    }
+    img{
+        padding-right: 0px;
+    }
+}
+@media all and (max-width: 768px){
+    .general-1{
+        background: url(/Безымянный.png) top left;
+        background-repeat: repeat-y;
+    }
+}
+@media all and (max-width: 576px){
+    img{
+        float: none;
+        width: 100%;
+    }
+    .col-3{
+        display: none;
+    }
+    .col{
+        display: none;
+    }
+    body{
+        margin: 0;
+    }
+    h2{
+        padding: 0;
+        margin-bottom: 0px;
+        background-color: #0bdefa;
+    }
+    p{
+        margin: 0;
+    }
+}
