@@ -39,6 +39,8 @@
     .col-1{
         float: none;
         width:auto;
+        background: url(/Безымянный.png) top left;
+        background-repeat: repeat;
     }
     .general-1{
         background: none;
