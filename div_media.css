@@ -35,7 +35,7 @@
         margin: 0;
     }
 }
-@media all and (max-width: 254px){
+@media all and (max-width: 270px){
     .col-1{
         float: none;
         width:auto;
