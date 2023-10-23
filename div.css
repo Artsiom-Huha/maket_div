@@ -49,5 +49,15 @@ h3{
     background-color: #18c8e7;
     
 }
-
+input[type="submit"]{
+    width: 80px;
+    position: fixed;
+    right: 5%;
+    top: 5%;
+    text-decoration:underline;
+    padding: 10px;
+    white-space: normal;
+    background-color: rgb(35, 205, 35);
+    border: none;
+}
 
